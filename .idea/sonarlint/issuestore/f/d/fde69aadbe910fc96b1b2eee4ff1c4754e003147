@@ -1,0 +1,8 @@
+
+g
+java:S1192"LDefine a constant instead of duplicating this literal "Dia laboral" 5 times.(Èõ×üÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(Ö£©°
+<	java:S131""Add a default case to this switch.(«®ùúÿÿÿÿ
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(Šó‚—ùÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'java.util.Locale'.(åğ×±ûÿÿÿÿ

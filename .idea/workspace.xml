@@ -5,30 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08e92a2a-ad6d-4e28-9905-b0784cd34f54" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciciocinco/NumerosParesImpares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciciocuatro/PrecioProducto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciciodiez/Frase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciciodos/NumeroConsola.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejercicionueve/Reemplazar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejercicioocho/Laboral.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejercicioseis/NumerosParesImparesF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciciosiete/NumeroIgual.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciciotres/AreaCirculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciciouno/NumeroMayor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerdoce/Palabras.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejeronce/LongFrase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejercatorce/Numeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciodieciocho/Entregable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciodieciocho/Serie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciodieciocho/SerieVideo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerciodieciocho/VideoJuego.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejerquince/Cine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/sofka/ejertrece/FechaHora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/747a59c31f465cd36e4e787ea3f575eb6d5f2ff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/9/b996cf8f3c59a13f65191f3a5749291100be2028" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -64,16 +53,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "last_opened_file_path": "C:/sofka/JavaPreguntas"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/sofka/javaLab",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Palabras">
-    <configuration name="Frase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejerciciodiez.Frase" />
+  <component name="RunManager" selected="Application.Cine">
+    <configuration name="Cine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejerquince.Cine" />
       <module name="TallerJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.com.sofka.ejerciciodiez.*" />
+          <option name="PATTERN" value="co.com.sofka.ejerquince.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Laboral" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejercicioocho.Laboral" />
+    <configuration name="FechaHora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejertrece.FechaHora" />
       <module name="TallerJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.com.sofka.ejercicioocho.*" />
+          <option name="PATTERN" value="co.com.sofka.ejertrece.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongFrase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejeronce.LongFrase" />
+    <configuration name="Numeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejercatorce.Numeros" />
       <module name="TallerJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.com.sofka.ejeronce.*" />
+          <option name="PATTERN" value="co.com.sofka.ejercatorce.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palabras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejerdoce.Palabras" />
+    <configuration name="NumerosParesImpares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejerciciocinco.NumerosParesImpares" />
       <module name="TallerJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.com.sofka.ejerdoce.*" />
+          <option name="PATTERN" value="co.com.sofka.ejerciciocinco.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reemplazar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejercicionueve.Reemplazar" />
+    <configuration name="SerieVideo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="co.com.sofka.ejerciodieciocho.SerieVideo" />
       <module name="TallerJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="co.com.sofka.ejercicionueve.*" />
+          <option name="PATTERN" value="co.com.sofka.ejerciodieciocho.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palabras" />
-        <item itemvalue="Application.LongFrase" />
-        <item itemvalue="Application.Frase" />
-        <item itemvalue="Application.Reemplazar" />
-        <item itemvalue="Application.Laboral" />
+        <item itemvalue="Application.Cine" />
+        <item itemvalue="Application.NumerosParesImpares" />
+        <item itemvalue="Application.Numeros" />
+        <item itemvalue="Application.FechaHora" />
+        <item itemvalue="Application.SerieVideo" />
       </list>
     </recent_temporary>
   </component>

@@ -1,0 +1,9 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(óÛÆÌ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§‰Ñ„ÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„ø™¡ýÿÿÿÿ
+b
+java:S1871"LThis branch's code block is the same as the block for the branch on line 27.(å¥ž‡
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(ÌÕÞ¼þÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ýÝ¢Øùÿÿÿÿ
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(üÍÓú
